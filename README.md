@@ -49,3 +49,5 @@ A detailed guide to run the Project can be found [here](https://drive.google.com
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(85).jpg)
 
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/4.jpg)
+
+   ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(86).jpg)
