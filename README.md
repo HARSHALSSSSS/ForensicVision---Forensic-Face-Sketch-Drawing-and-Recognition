@@ -30,7 +30,7 @@ Optimized to handle large datasets and integrate with external databases for enh
 A detailed guide to run the Project can be found [here](https://drive.google.com/file/d/1-Fiz4oJHdVK8Dhf72ujlNjR4-BP2iJ10/view?usp=sharing)
 
 ##  project screenshots 
-1) UI and main page of Drawing the Sketch , Contain all the Different Size Face Shape , Hairs , nose , ears, beard etc... required for the face to fully build, Which makes it Easy for Forensic and Criminal Investigation Department
+ ## 1) UI and main page of Drawing the Sketch , Contain all the Different Size Face Shape , Hairs , nose , ears, beard etc... required for the face to fully build, Which makes it Easy for Forensic and Criminal Investigation Department
 
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(73).jpg)
    
@@ -38,5 +38,5 @@ A detailed guide to run the Project can be found [here](https://drive.google.com
 2) 
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(78).jpg)
 
-## 2)  face recognition using the avilable records.  makes Easy for the Crime Branch to detect the Face easily form this tool , Rather than Wasting Time in Searching In the Files and in the record room .   
+## 2)  face recognition using the available records.  makes Easy for the Crime Branch to detect the Face easily form this tool , Rather than Wasting Time in Searching In the Files and in the record room .   
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(85).jpg)
