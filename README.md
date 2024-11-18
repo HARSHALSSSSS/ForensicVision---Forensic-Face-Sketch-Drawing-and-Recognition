@@ -28,8 +28,15 @@ Optimized to handle large datasets and integrate with external databases for enh
 
 ## HOW TO RUN THE PROJECT (GUIDE)
 A detailed guide to run the Project can be found [here](https://drive.google.com/file/d/1-Fiz4oJHdVK8Dhf72ujlNjR4-BP2iJ10/view?usp=sharing)
+ ##  Tech Stack
+Programming Language: Java
+Cloud Services:
+AWS Rekognition: Facial recognition service.
+AWS S3: Cloud storage for generated sketches.
+Database: SQLite for lightweight, local data storage.
+Framework: Java JDK for robust application development.
 
-##  project screenshots 
+ ##  project screenshots 
  ## 1) UI and main page of Drawing the Sketch , Contain all the Different Size Face Shape , Hairs , nose , ears, beard etc... required for the face to fully build, Which makes it Easy for Forensic and Criminal Investigation Department
 
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(73).jpg)
