@@ -38,7 +38,5 @@ A detailed guide to run the Project can be found [here](https://drive.google.com
 2) 
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(78).jpg)
 
-## 2)  face recognition using the avilable records.
-       makes Easy for the Crime Branch to detect the Face easily form this tool , Rather than Wasting Time in Searching In the Files and in the record room .
-   
+## 2)  face recognition using the avilable records.  makes Easy for the Crime Branch to detect the Face easily form this tool , Rather than Wasting Time in Searching In the Files and in the record room .   
    ![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(85).jpg)
