@@ -1,4 +1,4 @@
-![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision-Sketch-Drawing-and-Analysis-Tool/blob/main/apllication Screenshots/Screenshot (72).pnj)
+![Test Image 1](https://github.com/HARSHALSSSSS/ForensicVision---Forensic-Face-Sketch-Drawing-and-Recognition/blob/main/Screenshot%20(72).jpg)
 ## DESCRIPTION/ABSTRACT
 ForensicVision: Sketch Drawing & Analysis Tool
 
